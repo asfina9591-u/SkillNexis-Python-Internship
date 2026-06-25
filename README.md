@@ -24,7 +24,26 @@ This repository contains my work and assignments completed during the SkillNexis
 
 ## Week 2
 
-(To be added)
+## Week 2
+
+### Python Basics (Data Structures & Loops)
+
+* List CRUD Operations
+* Word Frequency using Dictionary
+* Nested Loops Pattern
+* Largest & Smallest in List
+* Sort List using sort() & lambda
+
+### Assignments
+
+* Contact Book using Dictionary
+* Word Counter from Text File
+* JSON File Reader
+
+### Mini Project
+
+* Student Management System (CSV + CRUD)
+
 
 ## Week 3
 
