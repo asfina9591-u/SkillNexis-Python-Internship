@@ -24,8 +24,6 @@ This repository contains my work and assignments completed during the SkillNexis
 
 ## Week 2
 
-## Week 2
-
 ### Python Basics (Data Structures & Loops)
 
 * List CRUD Operations
@@ -44,8 +42,6 @@ This repository contains my work and assignments completed during the SkillNexis
 
 * Student Management System (CSV + CRUD)
 
-
-## Week 3
 
 ## Week 3
 
