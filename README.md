@@ -47,7 +47,26 @@ This repository contains my work and assignments completed during the SkillNexis
 
 ## Week 3
 
-(To be added)
+## Week 3
+
+### File Handling & Libraries
+* Read a file and count total lines
+* Merge two text files
+* Load and analyze CSV using Pandas
+* Plot a line graph using Matplotlib
+* Create and read JSON file
+
+### Assignments (OOP)
+* Bank Account Class (deposit, withdraw, balance)
+* Library Management System (add/remove/issue/return books)
+* Calculator Class with Exception Handling
+
+### Mini Project
+* Billing System (OOP-based)
+  - Product class → name, price, quantity
+  - Bill class → total calculation + tax
+  - Display final bill in tabular format
+
 
 ## Week 4
 
