@@ -63,10 +63,13 @@ This repository contains my work and assignments completed during the SkillNexis
   - Bill class → total calculation + tax
   - Display final bill in tabular format
 
+## Week 4 – Capstone Project
 
-## Week 4
+### Email Automation Tool
+- Reads student data from CSV
+- Auto-sends personalized emails using smtplib
+- Demonstrates Python automation + real-world scripting
 
-(To be added)
 
 ### Author
 
